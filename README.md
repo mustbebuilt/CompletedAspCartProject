@@ -1,3 +1,3 @@
 # CompletedAspCartProject
 
-# Completed Example of a Session Based Shopping Cart
+Completed Example of a Session Based Shopping Cart
